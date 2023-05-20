@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<propertyList>
+<property mnemonic="SPANISH">
+    <text>SPANISH</text>
+    <localizedText lang="en">Spanish</localizedText>
+    <localizedText lang="es">Español</localizedText>
+</property>
+
+<property mnemonic="SEND MESSAGE">
+    <text>SEND MESSAGE</text>
+    <localizedText lang="en">Send Message</localizedText>
+    <localizedText lang="es">Enviar Mensaje</localizedText>
+</property>
+
+<property mnemonic="SEND">
+    <text>SEND</text>
+    <localizedText lang="en">Send</localizedText>
+    <localizedText lang="es">Enviar</localizedText>
+</property>
+
+<property mnemonic="SELECT SENDER">
+    <text>SELECT SENDER</text>
+    <localizedText lang="en">Select Sender</localizedText>
+    <localizedText lang="es">Seleccionar Remitente</localizedText>
+</property>
+
+<property mnemonic="SELECT RECEIVER">
+    <text>SELECT RECEIVER</text>
+    <localizedText lang="en">Select Receiver</localizedText>
+    <localizedText lang="es">Seleccionar Receptor</localizedText>
+</property>
+
+<property mnemonic="SELECT LANGUAGE">
+    <text>SELECT LANGUAGE</text>
+    <localizedText lang="en">Select Language</localizedText>
+    <localizedText lang="es">Seleccione El Idioma</localizedText>
+</property>
+
+<property mnemonic="FILE">
+    <text>FILE</text>
+    <localizedText lang="en">File</localizedText>
+    <localizedText lang="es">Expediente</localizedText>
+</property>
+
+<property mnemonic="ENGLISH">
+    <text>ENGLISH</text>
+    <localizedText lang="en">English</localizedText>
+    <localizedText lang="es">Inglés</localizedText>
+</property>
+
+<property mnemonic="END">
+    <text>END</text>
+    <localizedText lang="en">End</localizedText>
+    <localizedText lang="es">Final</localizedText>
+</property>
+
+<property mnemonic="CLEAR TEXT BOX">
+    <text>CLEAR TEXT BOX</text>
+    <localizedText lang="en">Clear Text Box</localizedText>
+    <localizedText lang="es">Cuadro De Texto Claro</localizedText>
+</property>
+
+<property mnemonic="CLEAR">
+    <text>CLEAR</text>
+    <localizedText lang="en">Clear</localizedText>
+    <localizedText lang="es">Claro</localizedText>
+</property>
+
+<property mnemonic="CHANGE SENDER">
+    <text>CHANGE SENDER</text>
+    <localizedText lang="en">Change Sender</localizedText>
+    <localizedText lang="es">Cambiar Remitente</localizedText>
+</property>
+
+<property mnemonic="CHANGE RECEIVER">
+    <text>CHANGE RECEIVER</text>
+    <localizedText lang="en">Change Receiver</localizedText>
+    <localizedText lang="es">Cambiar Receptor</localizedText>
+</property>
+</propertyList>
